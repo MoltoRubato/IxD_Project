@@ -1,5 +1,11 @@
 # IxD_Project: Smart Home App Design Project
 
+![image](https://github.com/user-attachments/assets/26e09971-9571-45eb-9d68-a81a355f8d71)
+![image](https://github.com/user-attachments/assets/5e9d9302-e937-4240-b201-70ea436f0265)
+![image](https://github.com/user-attachments/assets/230596b3-5950-4b65-af59-732637990d43)
+![image](https://github.com/user-attachments/assets/c1417432-6fcd-4a74-ab9e-f8013b32c605)
+
+
 ## Project Overview
 This project explores the design of a smart home app aimed at users who frequently travel or leave their homes unoccupied. The app focuses on providing seamless home security and maintenance functionalities, ensuring users can monitor and manage their homes remotely. The project is based on user research and iterative design processes.
 
