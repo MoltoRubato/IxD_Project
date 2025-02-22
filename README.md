@@ -1,4 +1,4 @@
-#Smart Home App Design Project (IxD_Project)
+# Smart Home App Design Project
 
 ![image](https://github.com/user-attachments/assets/26e09971-9571-45eb-9d68-a81a355f8d71)
 ![image](https://github.com/user-attachments/assets/5e9d9302-e937-4240-b201-70ea436f0265)
